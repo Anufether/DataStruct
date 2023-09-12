@@ -6,4 +6,4 @@
 
 # 忽略.build文件夹
 build/
-.vscode/settings.json
+.vscode/
